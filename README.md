@@ -1,5 +1,7 @@
 End-to-End Game Development with Contemporary AI Systems
 
+[![DOI](https://zenodo.org/badge/DOI/10.17605/OSF.IO/PUJ4M.svg)](https://doi.org/10.17605/OSF.IO/PUJ4M)
+
 Copyright (c) 2025–Present Giuseppe De Francesco
 
 Licensed under the Academic Free License version 3.0 (the "License");
@@ -14,6 +16,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 SPDX-License-Identifier: AFL-3.0
+
+---
 
 End-to-End Game Development with Contemporary AI Systems
 

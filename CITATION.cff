@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this research, please cite it as below."
+authors:
+- family-names: "De Francesco"
+  given-names: "Giuseppe"
+  orcid: "https://orcid.org/0000-0002-4362-7140"
+title: "End-to-End Game Development with AI"
+version: 1.0.0a
+doi: 10.17605/OSF.IO/PUJ4M
+date-released: 2025-11-30
+url: "https://github.com/github-linguist/linguist"

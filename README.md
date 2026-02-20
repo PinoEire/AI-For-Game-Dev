@@ -1,4 +1,5 @@
 End-to-End Game Development with Contemporary AI Systems
+
 Copyright (c) 2025–Present Giuseppe De Francesco
 
 Licensed under the Academic Free License version 3.0 (the "License");

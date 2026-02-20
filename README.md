@@ -2,6 +2,8 @@
 
 ***Copyright (c) 2025–Present Giuseppe De Francesco***
 
+[![DOI](https://zenodo.org/badge/DOI/10.17605/OSF.IO/PUJ4M.svg)](https://doi.org/10.17605/OSF.IO/PUJ4M)
+
 *Licensed under the Academic Free License version 3.0 (the "License");*
 *you may not use this work except in compliance with the License.*
 *You may obtain a copy of the License at:*
@@ -15,7 +17,7 @@
 
 *SPDX-License-Identifier: AFL-3.0*
 
-----
+---
 
 ## Project overview
 

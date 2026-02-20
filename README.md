@@ -1,23 +1,23 @@
-End-to-End Game Development with Contemporary AI Systems
+# End-to-End Game Development with Contemporary AI Systems
 
-Copyright (c) 2025–Present Giuseppe De Francesco
+***Copyright (c) 2025–Present Giuseppe De Francesco***
 
-Licensed under the Academic Free License version 3.0 (the "License");
-you may not use this work except in compliance with the License.
-You may obtain a copy of the License at:
-https://opensource.org/licenses/AFL-3.0
+*Licensed under the Academic Free License version 3.0 (the "License");*
+*you may not use this work except in compliance with the License.*
+*You may obtain a copy of the License at:*
+*https://opensource.org/licenses/AFL-3.0*
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+*Unless required by applicable law or agreed to in writing, software*
+*distributed under the License is distributed on an "AS IS" BASIS,*
+*WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.*
+*See the License for the specific language governing permissions and*
+*limitations under the License.*
 
-SPDX-License-Identifier: AFL-3.0
+*SPDX-License-Identifier: AFL-3.0*
 
-End-to-End Game Development with Contemporary AI Systems
+----
 
-Project overview
+## Project overview
 
 This project investigates whether, and in what sense, contemporary artificial intelligence (AI) systems can support the development of a complete videogame from initial concept to a finished, playable product in 2025/2026. The focus is not only on technical feasibility, but also on the role AI systems play within the game development pipeline, and on how different model families map onto different types of game-development tasks.
 
